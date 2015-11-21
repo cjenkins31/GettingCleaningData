@@ -25,5 +25,5 @@ Please see the CodeBook.MD file for additional information about the data, varia
  
 
 
-  [1]: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones/"UCI Machine Learning Repository"
+  [1]: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
   [2]: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip

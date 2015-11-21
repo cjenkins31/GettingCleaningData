@@ -1,20 +1,13 @@
----
-title: "README.md"
-author: "Chad Jenkins"
-date: "Saturday, November 21, 2015"
-output: html_document
----
-<p><markdown>
-
+# README.md
 # Getting & Cleaning Data Course Project
 
-## Overview ##
+## Overview
 
 The run_analysis.R script demonstrates the process of creating a tidy set from a collection of data.  A full description of the data can be found at [The UCI Machine Learning Repository][1]
 
 The source data can be found [here][2].
 
-## Script Summary ##
+## Script Summary
 
 The following steps will be performed:
 
@@ -26,7 +19,7 @@ The following steps will be performed:
 
 Note: If you are running this script on your computer, be sure to change the working directory to where you have unzipped the source data
 
-## Additional Info ##
+## Additional Info
 Please see the CodeBook.MD file for additional information about the data, variables, and transformations.
 
  
@@ -34,4 +27,3 @@ Please see the CodeBook.MD file for additional information about the data, varia
 
   [1]: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones/"UCI Machine Learning Repository"
   [2]: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-</markdown></p>

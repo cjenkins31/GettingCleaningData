@@ -1,12 +1,4 @@
----
-title: "CodeBook.md"
-author: "Chad Jenkins"
-date: "Saturday, November 21, 2015"
-output: html_document
----
-
-<p><markdown>
-
+# CodeBook.md
 # Getting & Cleaning Data Course Project
 
 ## Data
@@ -77,4 +69,3 @@ You will need to use the following files for this project:
  
   [1]: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
   [2]: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-</markdown></p>
